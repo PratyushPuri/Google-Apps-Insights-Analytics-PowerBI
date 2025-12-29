@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://static0.anpoimages.com/wordpress/wp-content/uploads/2022/06/what-is-google-play-hero.jpg" alt="drawing" width="500"/>
+<img src="google.avif" alt="drawing" width="500"/>
 
 </div>
 
@@ -42,6 +42,12 @@ Interactive Power BI dashboard analyzing 10.35K Google Play Store apps with 147 
   - GAME category dominates both market share and total installs, validating gaming as primary growth opportunity in app ecosystem.
   - "Everyone" content rating represents 50.68% of apps, confirming family-friendly content as market standard and safest demographic target.
   - Review Performance Score enables quick identification of high-performing apps with strong user engagement and satisfaction metrics.
+
+---
+
+![powerBI](powerDash.png)
+
+---
 
 ## How to Use
 - Open the dashboard file:  
